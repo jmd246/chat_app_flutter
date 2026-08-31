@@ -2,7 +2,7 @@
 /windows/
 /web/
 # Flutter / Dart 
-dart_tool/
+.dart_tool/
 build/ 
 # IDE 
 .idea/ 

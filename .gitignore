@@ -1,3 +1,9 @@
 # Flutter generated/platform files 
 /windows/
 /web/
+# Flutter / Dart 
+dart_tool/
+build/ 
+# IDE 
+.idea/ 
+*.iml
